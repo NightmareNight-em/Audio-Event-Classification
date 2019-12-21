@@ -19,3 +19,8 @@ Due to less computational power of my laptop , I constrained the classification 
 However,I tried working on data with 41 classes.Keeping the training set constant , I tried to improve my metric(accuracy) through hand-engineering , that is , tuning hyperparameters or overcoming overfitting through dropouts and regularization.
 
 I am open to any ideas which could help improve the metric provided less amount of data to train.
+
+Also,the slide are borrowed from https://github.com/seth814/Audio-Classification.
+Here,you can also get the wavfiles(audio files) for 10 classes of instruments.
+
+Have a look at AudioEventDetection.pdf to get more information on the project.
