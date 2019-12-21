@@ -23,4 +23,4 @@ I am open to any ideas which could help improve the metric provided less amount 
 Also,the slide are borrowed from https://github.com/seth814/Audio-Classification.
 Here,you can also get the wavfiles(audio files) for 10 classes of instruments.
 
-Have a look at AudioEventDetection.pdf to get more information on the project.
+Have a look at AudioEventClassification.pdf to get more information on the project.
