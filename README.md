@@ -11,8 +11,11 @@ I have also provided .h5 model for CNN,RNN,CRNN models for 10 class classificati
 
 I picked my dataset from here,
 https://www.kaggle.com/c/freesound-audio-tagging/data
+
 It contained around 9.5k samples with .wav files from 41 classes.
+
 Due to less computational power of my laptop , I constrained the classification under 10 categories of instruments.
+
 However,I tried working on data with 41 classes.Keeping the training set constant , I tried to improve my metric(accuracy) through hand-engineering , that is , tuning hyperparameters or overcoming overfitting through dropouts and regularization.
 
 I am open to any ideas which could help improve the metric provided less amount of data to train.
